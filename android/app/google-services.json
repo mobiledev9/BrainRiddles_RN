@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "177038849929",
+    "project_id": "riddles-9ed3d",
+    "storage_bucket": "riddles-9ed3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177038849929:android:11f02241106de0c8f85358",
+        "android_client_info": {
+          "package_name": "com.ddsgame.wordriddles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177038849929-j7pun850edb8a0kk5tf7mqll2kbpl4l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ddsgame.wordriddles",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "177038849929-aucvv10bsnr9j3hr4jr5iem2n4u0n712.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHPrPb_KEvUumImu8p76U-UHmGMu6P-zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177038849929-aucvv10bsnr9j3hr4jr5iem2n4u0n712.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177038849929-n435qns5im2s2lq2r1u6oq1te41bdtjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ddsgame.wordriddles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
